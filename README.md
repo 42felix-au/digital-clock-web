@@ -7,3 +7,5 @@ Clone this repository and run the script:
 ```bash
 git clone https://github.com/42felix-au/digital-clock-web.git
 ```
+
+*Initialized by cyber-admin-12 workspace automation.*
